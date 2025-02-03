@@ -8,7 +8,7 @@ import time
 # cap.set(3, 1280)
 # cap.set(4, 720)
 cap = cv2.VideoCapture("../Videos/motorbikes.mp4")  # For Video
-
+sfafhgfssdgdsg
 
 model = YOLO("../Yolo-Weights/yolov8l.pt")
 
